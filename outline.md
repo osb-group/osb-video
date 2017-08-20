@@ -125,12 +125,13 @@ These videos have appropriate knowledge levels for the viewer. The minimum requi
 
 ## Postgame
 Even faster than side-quests, these are advanced topics that deserve their own video as quicker topics. The content here is more advanced and assumes full knowledge of the main video content.
-    - **Programming**: LINQ Queries
-    - **Programming**: System.Drawing
-    - **Programming**: Data Structures: Stacks and Queues
-    - **Programming**: Recursion
-    - **Programming**: Data Structures: Trees
-    - **Programming**: File I/o
-    - **Programming**: Data Structures: Graphs
-    - **Programming**: Data Structures: Spatial Data Structures
+
+- **Programming**: LINQ Queries
+- **Programming**: System.Drawing
+- **Programming**: Data Structures: Stacks and Queues
+- **Programming**: Recursion
+- **Programming**: Data Structures: Trees
+- **Programming**: File I/o
+- **Programming**: Data Structures: Graphs
+- **Programming**: Data Structures: Spatial Data Structures
 
