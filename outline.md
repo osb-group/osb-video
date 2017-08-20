@@ -123,17 +123,6 @@ These videos have appropriate knowledge levels for the viewer. The minimum requi
     - **Principles**: Readability and Clean Code
     - **Principles**: Planning Ahead
 
-    1. Enumeration
-    2. Trigonometry and Math
-    3. LINQ Queries
-    4. System.Drawing
-    5. Data Structures: Stacks and Queues
-    6. Recursion
-    7. Data Structures: Trees
-    8. File I/O
-    9. Data Structures: Graphs
-    10. Data Structures: Spatial Data Structures
-
 ## Postgame
 Even faster than side-quests, these are advanced topics that deserve their own video as quicker topics. The content here is more advanced and assumes full knowledge of the main video content.
     - **Programming**: LINQ Queries
